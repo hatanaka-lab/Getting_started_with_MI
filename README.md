@@ -13,4 +13,6 @@
   + [閲覧用](notebook/計算化学特論_PCA.ipynb)　<br>    
 - **演習[2]** はじめての教師あり学習 <br>
   Bostonの住宅価格を予測するモデルを構築しよう <br>
-  [演習用ファイル ex2_Boston.ipynb]()　/　[データ Boston.xlsx](data/Boston.xlsx)　/　[閲覧用]()
+  * [演習用ファイル ex2_Boston.ipynb]()
+  * [データ Boston.xlsx](data/Boston.xlsx)
+  * [閲覧用]()
