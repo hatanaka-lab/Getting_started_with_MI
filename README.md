@@ -17,4 +17,6 @@
   Bostonの住宅価格を予測するモデルを構築しよう <br>
   * [演習用ファイル：Ex2_Boston.ipynb](notebook_exercise/Ex2_Boston.ipynb)
   * [データファイル：Boston.xlsx](data/Boston.xlsx)
-  * [閲覧用ページ](notebook/Ex2_Boston_forView.ipynb)
+  * [閲覧用ページ](notebook/Ex2_Boston_forView.ipynb)　<br>
+  
+- **演習[3]**　coming soon <br>
