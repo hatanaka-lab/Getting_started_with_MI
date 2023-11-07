@@ -20,7 +20,7 @@
   * [閲覧用ページ](notebook/Ex2_Boston_forView.ipynb)　<br>
   
 - **演習[3]**　RDKitを用いる分子の特徴量の作成  <br>
-  分子の毒性を予測する分類モデルを構築しよう <br>
+  SDFやSMILES形式で書かれた分子の情報を特徴量に変換し、各分子の毒性を予測するモデルを構築しよう <br>
   * [演習用ファイル：Ex3_RDKit_Tox21.ipynb](notebook_exercise/Ex3_RDKit_Tox21.ipynb)
   * [データファイル(Structure-Data File)：nr-ar.sdf](data/nr-ar.sdf)
   * [データファイル(SMILES 記法)：smiles_data.csv](data/smiles_data.csv)
