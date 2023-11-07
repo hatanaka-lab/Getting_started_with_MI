@@ -19,4 +19,14 @@
   * [データファイル：Boston.xlsx](data/Boston.xlsx)
   * [閲覧用ページ](notebook/Ex2_Boston_forView.ipynb)　<br>
   
-- **演習[3]**　coming soon <br>
+- **演習[3]**　RDKitを用いる分子の特徴量の作成  <br>
+  分子の毒性を予測する分類モデルを構築しよう <br>
+  * [演習用ファイル：Ex3_RDKit_Tox21.ipynb](notebook_exercise/Ex3_RDKit_Tox21.ipynb)
+  * [データファイル(Structure-Data File)：nr-ar.sdf](data/nr-ar.sdf)
+  * [データファイル(SMILES 記法)：smiles_data.csv](data/smiles_data.csv)
+  * [閲覧用ページ](notebook/Ex3_RDKit_Tox21_forView.ipynb)　<br>
+  
+- **演習[4]**　誘導体のSMILESの作成  <br>
+  指定した母骨格に対し、様々な置換基を持つ誘導体のSMILESを作成しよう <br>
+  * [演習用ファイル：Ex4_SMILES.ipynb](notebook_exercise/Ex4_SMILES.ipynb)
+  * [閲覧用ページ](notebook/Ex4_SMILES_forView.ipynb)　<br>
